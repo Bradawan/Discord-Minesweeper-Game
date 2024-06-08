@@ -20,5 +20,5 @@ The generated game will be displayed in the output box. Click the "Copy to Clipb
 Paste the game into Discord. _The game will be hidden by spoiler tags, and players can click on the numbers and bombs to reveal them._
 
 # Deployment
-This website is deployed using GitHub Pages. You can access it [here](https://minesweeper.brad.moe)
+This website is deployed using GitHub Pages. You can access it [here](https://bradawan.github.io/Discord-Minesweeper-Generator/)
 
